@@ -1,2 +1,8 @@
-# Leetcode-Again
-Used to store all self solution to problems on Leetcode
+LeetCode Again   
+========
+
+## Motto
+> If not now, when? If not me, who? 时不我待，舍我其谁
+
+| # | Title | Solution | Difficulty | Tag |
+|---|:-----:| -------- |:----------:|:---:|
