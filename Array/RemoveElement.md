@@ -1,4 +1,4 @@
-# 26. Remove Element
+# 27. Remove Element
 
 ## Description
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
@@ -28,7 +28,8 @@ Explanation: Your function should return length = 5, with the first five element
 ```
 
 ## Solution
-### Two pointer
+### Two pointers
+#### Python
 ```python
 def removeElement(self, nums: List[int], val: int) -> int:
     index = 0
@@ -39,7 +40,8 @@ def removeElement(self, nums: List[int], val: int) -> int:
     return index
 ```
 
-### Two pointer with elements to remove are rare
+### Two pointers with elements to remove are rare
+#### Python
 ```python
 def removeElement(self, nums: List[int], val: int) -> int:
     index = 0
