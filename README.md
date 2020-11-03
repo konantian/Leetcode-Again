@@ -16,5 +16,5 @@ LeetCode Again
 |26|[Remove Duplicates from Sorted Array](./Array/removeDuplicates.md) |Easy|Array|
 |27|[Remove Element](./Array/RemoveElement.md) |Easy|Array|
 |35|[Search Insert Position](./Array/SearchInsertPosition.md) |Easy|Array|
-|53|[Maximum Subarray](./Array/MaximumSubarray.md) |Easy|Array|
+|53|[Maximum Subarray](./Array/MaximumSubArray.md) |Easy|Array|
 
