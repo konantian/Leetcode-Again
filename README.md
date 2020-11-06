@@ -18,4 +18,4 @@ LeetCode Again
 |35|[Search Insert Position](./Array/SearchInsertPosition.md) |Easy|Array|
 |53|[Maximum Subarray](./Array/MaximumSubArray.md) |Easy|Array|
 |66|[Plus One](./Array/PlusOne.md) |Easy|Array|
-
+|88|[Merge Sorted Array](./Array/MergeSortedArray.md) |Easy|Array|
