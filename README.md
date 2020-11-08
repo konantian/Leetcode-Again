@@ -21,3 +21,4 @@ LeetCode Again
 |88|[Merge Sorted Array](./Array/MergeSortedArray.md) |Easy|Array|
 |118|[Pascal's Triangle](./Array/PascalTriangle.md) |Easy|Array|
 |119|[Pascal's Triangle II](./Array/PascalTriangleII.md) |Easy|Array|
+|121|[Best Time to Buy and Sell Stock](./Array/BuyStock.md) |Easy|Array|
