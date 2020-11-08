@@ -13,6 +13,7 @@ LeetCode Again
 | # | Solution | Difficulty | Tag |
 |---|:---------:|:----------:|:---:|
 |01|[Two Sum](./Array/TwoSum.md) |Easy|Array|
+|13|[Roman To Integer](./Array/RomanToInteger.md) |Easy|Array|
 |26|[Remove Duplicates from Sorted Array](./Array/removeDuplicates.md) |Easy|Array|
 |27|[Remove Element](./Array/RemoveElement.md) |Easy|Array|
 |35|[Search Insert Position](./Array/SearchInsertPosition.md) |Easy|Array|
